@@ -1,4 +1,4 @@
-Overview
+Aperçu
 ===============
 
 Pour commencer à utiliser Swivy, suivez ces étapes :

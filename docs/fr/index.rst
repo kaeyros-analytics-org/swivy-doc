@@ -9,11 +9,13 @@ Documentation de Swivy
 Aperçu
 -----------
 
+.. image:: /images/Real-time-tracking-profile-view.jpg
+
 Swivy est une application conçue pour surveiller les mouvements et les tâches des agents commerciaux à travers divers points de vente. La journée de travail d'un agent commercial implique de se déplacer d'un point de vente à un autre pour accomplir différentes tâches. Avec Swivy, vous pouvez suivre la position d'un agent commercial sur une carte en temps réel, vous permettant de voir sa position actuelle et le statut de ses tâches. Chaque agent commercial est lié à un responsable qui surveille leurs emplacements et envoie des notifications en cas d'erreurs ou de suspicion de mauvaise conduite. Inversement, les agents commerciaux peuvent alerter leurs responsables s'ils rencontrent des problèmes. Les entreprises peuvent utiliser Swivy en créant un compte sur l'application et en enregistrant leurs responsables et agents commerciaux. Dans l'application Swivy, les agents commerciaux sont appelés Représentants Commerciaux (Sales Reps), et les administrateurs sont connus sous le nom de Responsables (Reporting Managers).
 
 .. toctree::
    :maxdepth: 2
-   :caption: Commencer
+   :caption: Pour commencer
 
    getting_started/index
 
